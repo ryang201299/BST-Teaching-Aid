@@ -1,0 +1,70 @@
+.side-container {
+    width: 40vw;
+    background-color: #2e3447;
+    height: 90.9vh;
+    margin: 0px 0px 0px 0px;
+    /*display: inline-block;*/
+    /*position: absolute;*/
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sideButtons {
+    height: 30%;
+    border-bottom: solid black 1px;
+    margin-right: 10px;
+}
+
+.codeContainer {
+    height: 100%;
+}
+
+.codeDiv {
+    margin: 5% auto 5% 3%;
+    height: 90%;
+    width: 90%;
+    background-color: #d5ebe8;
+    border: solid grey 1px;
+    border-radius: 5px;
+}
+
+.codeNav {
+    width: 100%;
+    height: 5%;
+}
+
+.codeNav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: solid grey 1px;
+    padding-left: 20px;
+}
+
+.codeNav li {
+    display: inline;
+    padding-bottom: 10px;
+}
+
+.codeNav li a {
+    text-decoration: none;
+    color: #2e3447;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.DLM {
+    border-right: solid grey 1px;
+    margin-left: 15%;
+    padding-right: 20%;
+}
+
+.Log {
+    margin-right: 15%;
+}
+
+.code {
+    margin: 5%;
+}

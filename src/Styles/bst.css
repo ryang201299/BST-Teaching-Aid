@@ -1,0 +1,15 @@
+.BST {
+    border-style: solid;
+    border-color: none;
+    border-radius: 50%;
+    max-height: 65px;
+    max-width: 65px;
+    background-color: #0033cc;
+    border-color: #0033cc;
+    overflow: auto;
+}
+
+.bst-container {
+    margin-top: 4vh;
+    min-width: 60%;
+}
