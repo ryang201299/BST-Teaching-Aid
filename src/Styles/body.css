@@ -1,0 +1,13 @@
+.body-container {
+    display: flex;
+    max-height: 800px;
+    max-width: 1535px;
+}
+
+
+.codeInput {
+    min-height: 500px;
+    max-height: 500px;
+    width: 100%;
+    font-size: 18px;
+}
